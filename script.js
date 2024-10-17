@@ -29,3 +29,11 @@ alert(prompt("Compose your Tweet:").slice(0,140));
 /* var secondName = "Angela";
 secondName.slice(0, 2); 
 */
+
+// Change all the characters into a string into UpperCase
+
+/* var thirdName = "Sam";
+thirdName = thirdName.toUpperCase();
+console.log(thirdName);
+thirdName = thirdName.toLowerCase();
+console.log(thirdName); */
